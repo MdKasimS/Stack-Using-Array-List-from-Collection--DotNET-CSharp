@@ -1,0 +1,15 @@
+E:\2023-25\DSA Using C#\Stack Using Array\bin\Debug\net7.0\Stack Using Array.exe
+E:\2023-25\DSA Using C#\Stack Using Array\bin\Debug\net7.0\Stack Using Array.deps.json
+E:\2023-25\DSA Using C#\Stack Using Array\bin\Debug\net7.0\Stack Using Array.runtimeconfig.json
+E:\2023-25\DSA Using C#\Stack Using Array\bin\Debug\net7.0\Stack Using Array.dll
+E:\2023-25\DSA Using C#\Stack Using Array\bin\Debug\net7.0\Stack Using Array.pdb
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.csproj.AssemblyReference.cache
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.AssemblyInfoInputs.cache
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.AssemblyInfo.cs
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.csproj.CoreCompileInputs.cache
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.dll
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\refint\Stack Using Array.dll
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.pdb
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\Stack Using Array.genruntimeconfig.cache
+E:\2023-25\DSA Using C#\Stack Using Array\obj\Debug\net7.0\ref\Stack Using Array.dll
